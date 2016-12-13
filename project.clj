@@ -7,4 +7,5 @@
                  [org.clojure/clojurescript "1.7.170"]
                  [org.clojure/test.check "0.8.2"]
                  [org.omcljs/om "1.0.0-alpha34"]
+                 [org.clojure/core.async "0.2.371" :scope "test"]
                  [figwheel-sidecar "0.5.0-SNAPSHOT" :scope "test"]])
